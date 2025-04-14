@@ -1,12 +1,25 @@
-<h2 align="left">👋 Hola, soy Gabriel.</h2>
+<h1 align="left">👋 Hola, soy Gabriel.</h1>
 
 ###
 
-<img align="right" height="300" src="https://i.pinimg.com/736x/44/9d/77/449d77b948f46ef33bf83d964e51bdfa.jpg"  />
-
-###
+<br clear="both">
 
 <p align="left">Soy desarrollador fullstack con experiencia en Java, Angular y bases de datos relacionales. Actualmente estoy finalizando mis estudios y trabajando en proyectos personales para seguir mejorando mis habilidades. Me interesa trabajar en equipos donde pueda seguir aprendiendo, aportar valor y crecer profesionalmente.</p>
+
+###
+
+<img align="right" height="545" src="https://i.pinimg.com/736x/44/9d/77/449d77b948f46ef33bf83d964e51bdfa.jpg"  />
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=GabrielDeMaussion&locale=es&mode=weekly&theme=material-palenight&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielDeMaussion&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h2 align="left">Mis herramientas</h2>
 
 ###
 
@@ -58,18 +71,11 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=GabrielDeMaussion&locale=es&mode=weekly&theme=material-palenight&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielDeMaussion&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <img src="https://raw.githubusercontent.com/GabrielDeMaussion/GabrielDeMaussion/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<p align="left">🤝 Si querés charlar, colaborar o tenés alguna oportunidad interesante, no dudes en contactarme:</p>
+<p align="left">🤝 Si querés charlar, colaborar o tenés alguna oportunidad interesante, no dudes en contactarme.</p>
 
 ###
 
