@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="210" src="motivational.png"  />
+<img align="right" height="220" src="motivational.png"  />
 
 ###
 
