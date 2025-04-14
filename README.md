@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="300" src="motivational.png"  />
+<img align="right" height="280" src="motivational.png"  />
 
 ###
 
@@ -11,10 +11,12 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=GabrielDeMaussion&locale=es&mode=weekly&theme=react&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D" height="125" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=GabrielDeMaussion&locale=es&mode=weekly&theme=react&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D" height="150" alt="streak graph"  />
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GabrielDeMaussion&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=es&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -74,7 +76,7 @@
 ###
 
 <div align="right">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielDeMaussion&radius=15&theme=github-dark-dimmed&area=true&order=5&hide_border=false&hide_title=false&custom_title=Contribuciones%20en%20los%20%C3%BAltimos%2030%20d%C3%ADas" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielDeMaussion&radius=15&theme=react&area=true&order=5&hide_border=true&hide_title=false&custom_title=Contribuciones%20en%20los%20%C3%BAltimos%2030%20d%C3%ADas" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
