@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="200" src="motivational.png"  />
+<img align="right" height="210" src="motivational.png"  />
 
 ###
 
@@ -11,8 +11,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=GabrielDeMaussion&locale=es&mode=weekly&theme=react&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D" height="110" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielDeMaussion&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="110" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=GabrielDeMaussion&locale=es&mode=weekly&theme=react&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D" height="120" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielDeMaussion&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="120" alt="languages graph"  />
 </div>
 
 
