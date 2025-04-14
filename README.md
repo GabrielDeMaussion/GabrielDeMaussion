@@ -80,14 +80,21 @@
 
 ###
 
-<p align="left">🤝 Si querés charlar, colaborar o tenés alguna oportunidad interesante, no dudes en contactarme.</p>
+
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/gabriel-de-maussion/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+<table border="0">
+  <tr>
+    <td>
+      <strong>🤝 Si querés charlar, colaborar o tenés alguna oportunidad interesante, no dudes en contactarme.</strong>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/gabriel-de-maussion/" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ###
