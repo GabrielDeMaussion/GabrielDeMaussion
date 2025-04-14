@@ -6,20 +6,12 @@
 
 ###
 
-<p align="left">Soy desarrollador fullstack con experiencia en Java, Angular y bases de datos relacionales. Actualmente estoy finalizando mis estudios y trabajando en proyectos personales para seguir mejorando mis habilidades. Me interesa trabajar en equipos donde pueda seguir aprendiendo, aportar valor y crecer profesionalmente.</p>
+<blockquote align="left" style="padding-start: 15px">Soy desarrollador fullstack con experiencia en Java, Angular y bases de datos relacionales. Actualmente estoy finalizando mis estudios y trabajando en proyectos personales para seguir mejorando mis habilidades. Me interesa trabajar en equipos donde pueda seguir aprendiendo, aportar valor y crecer profesionalmente.</blockquote>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=GabrielDeMaussion&locale=es&mode=weekly&theme=react&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielDeMaussion&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=es&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielDeMaussion&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
@@ -82,9 +74,9 @@
 ###
 
 <br clear="both">
-<!--
-<img src="https://raw.githubusercontent.com/GabrielDeMaussion/GabrielDeMaussion/output/snake.svg" alt="Snake animation" />
- -->
+
+<!-- <img src="https://raw.githubusercontent.com/GabrielDeMaussion/GabrielDeMaussion/output/snake.svg" alt="Snake animation" /> -->
+
 ###
 
 <p align="left">🤝 Si querés charlar, colaborar o tenés alguna oportunidad interesante, no dudes en contactarme.</p>
