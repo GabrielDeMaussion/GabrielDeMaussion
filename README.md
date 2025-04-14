@@ -72,10 +72,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielDeMaussion&radius=15&theme=react&area=true&order=5&hide_border=true&hide_title=false&custom_title=Contribuciones%20en%20los%20%C3%BAltimos%2030%20d%C3%ADas" height="300" alt="activity-graph graph"  />
 </div>
 
-###
-
-<br clear="both">
-
 <!-- <img src="https://raw.githubusercontent.com/GabrielDeMaussion/GabrielDeMaussion/output/snake.svg" alt="Snake animation" /> -->
 
 ###
