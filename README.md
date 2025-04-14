@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="280" src="motivational.png"  />
+<img align="right" height="270" src="motivational.png"  />
 
 ###
 
@@ -82,9 +82,9 @@
 ###
 
 <br clear="both">
-
+<!--
 <img src="https://raw.githubusercontent.com/GabrielDeMaussion/GabrielDeMaussion/output/snake.svg" alt="Snake animation" />
-
+ -->
 ###
 
 <p align="left">🤝 Si querés charlar, colaborar o tenés alguna oportunidad interesante, no dudes en contactarme.</p>
