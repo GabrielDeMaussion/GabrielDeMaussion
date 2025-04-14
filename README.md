@@ -2,15 +2,15 @@
 
 ###
 
-<br clear="both">
+<img align="right" height="230" src="motivational.png"  />
+
+###
 
 <p align="left">Soy desarrollador fullstack con experiencia en Java, Angular y bases de datos relacionales. Actualmente estoy finalizando mis estudios y trabajando en proyectos personales para seguir mejorando mis habilidades. Me interesa trabajar en equipos donde pueda seguir aprendiendo, aportar valor y crecer profesionalmente.</p>
 
 ###
 
-<img align="right" height="545" src="https://i.pinimg.com/736x/44/9d/77/449d77b948f46ef33bf83d964e51bdfa.jpg"  />
-
-###
+<br clear="both">
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=GabrielDeMaussion&locale=es&mode=weekly&theme=material-palenight&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D" height="150" alt="streak graph"  />
